@@ -12,6 +12,8 @@
 
 ### 외부 문서
 
-- #### [**장고 CookBook**](./DjangoCookbook.md)
+- #### [**장고 ORM CookBook**](./DjangoORMCookbook.md)
+
+- #### [**장고 API**](./DjangoAPI.md)
 
 
